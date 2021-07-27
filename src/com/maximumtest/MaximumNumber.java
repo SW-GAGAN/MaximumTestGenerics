@@ -8,6 +8,7 @@ public class MaximumNumber {
                 max = element;
             }
         }
+
         return max;
     }
 }

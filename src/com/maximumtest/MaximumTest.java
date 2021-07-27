@@ -26,6 +26,7 @@ public class MaximumTest {
         Integer[] intArray = {3, 1, 7};
         Integer result = maximumTest.findMaximum(intArray);
         Assertions.assertEquals(Integer.valueOf(7), result);
+
     }
 }
 
